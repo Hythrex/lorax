@@ -4,3 +4,8 @@ WE MAKING IT OUT OF THNEEDVILLE WITH THIS ONE 🗣 🗣 🗣 🔥🔥🔥🥶�
 its a unity project
 # am i supposed to do anything
 of course not its a dumb low quality thing that i just decided to work on because i dont have anything better to do
+# what do you use
+game engine - unity
+coding - vs code
+3d models - blender
+2d ""art"" - paint.net
