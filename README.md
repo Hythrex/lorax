@@ -9,3 +9,5 @@ game engine - unity <br>
 coding - vs code <br>
 3d models - blender <br>
 2d ""art"" - paint.net
+# how see unity?
+download and then open
